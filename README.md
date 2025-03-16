@@ -2,6 +2,7 @@
 📌 Overview
 
 This project implements a speaker recognition system using Convolutional Neural Networks (CNNs) and Mel-Frequency Cepstral Coefficients (MFCCs) for feature extraction. The dataset consists of audio recordings from five different speakers, with each speaker having 1500 clips of 1 second each.
+
 📂 Dataset
 
     Source: Kaggle - Speaker Recognition Dataset
