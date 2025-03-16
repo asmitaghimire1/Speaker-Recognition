@@ -25,52 +25,12 @@ This project implements a speaker recognition system using Convolutional Neural 
     Train/Test Split: Data is split into training and testing sets.
     Performance Metrics: Accuracy, precision, recall, and loss visualization.
 
-🛠 Installation & Setup
-Prerequisites
-
-Make sure you have Python and the required dependencies installed.
-
-pip install numpy pandas librosa tensorflow matplotlib scikit-learn
-
-Clone the Repository
-
-git clone https://github.com/yourusername/speaker-recognition.git
-cd speaker-recognition
-
-🚀 Usage
-
-    Extract MFCC Features
-    Run the feature extraction script to generate MFCCs:
-
-python mfcc_extraction.py
-
-Train the CNN Model
-
-python train_model.py
-
-Test the Model
-
-python test_model.py
-
-Evaluate Performance
-
-    python evaluate.py
-
 📊 Model Performance
 
-    Accuracy: XX% (to be updated after training)
-    Loss and Accuracy Graphs: (Generated in the results folder)
+    Loss and Accuracy Graphs: 
+    ![483331130_2159385587871599_3087932711519065501_n](https://github.com/user-attachments/assets/c0951067-a285-4b84-967b-88375b2c9122)
+    ![483156597_1063452739133508_7248400490991682105_n](https://github.com/user-attachments/assets/738f482f-a3b4-4048-9a8b-fc5fd42e9cf2)
 
-📜 Project Structure
-
-├── dataset/              # Audio dataset
-├── mfcc_extraction.py    # MFCC feature extraction
-├── train_model.py        # CNN model training
-├── test_model.py         # Model testing
-├── evaluate.py           # Model evaluation
-├── models/               # Saved models
-├── results/              # Graphs and performance metrics
-└── README.md             # Project documentation
 
 🎯 Future Improvements
 
