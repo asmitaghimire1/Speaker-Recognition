@@ -43,3 +43,8 @@ Classification Report and Confusion Matrix:
 - Implementing LSTM for temporal feature learning
 - Optimizing CNN architecture for better accuracy
 - Real-time speaker recognition
+
+### Examples
+
+   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2a08f739-d356-4b64-9a3f-e8f77b1f5425" />
+
